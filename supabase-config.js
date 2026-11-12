@@ -1,3 +1,4 @@
-// Opcional: preencha com a URL do projeto e a chave anon/public do Supabase.
-// NUNCA coloque aqui a chave service_role ou qualquer segredo.
-window.CYBERLEIGOS_SUPABASE = { url: '', anonKey: '' };
+window.CYBERLEIGOS_SUPABASE = {
+  url: "https://ieebinjdnxgqntjazdrv.supabase.co",
+  anonKey: "sb_publishable_LjgaaBvIAf4bIbmVQk37JQ_cQd-2lP4"
+};
